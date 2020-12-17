@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318683998521",
+    "firebase_url": "https://griffelife-cd9a2-default-rtdb.firebaseio.com",
+    "project_id": "griffelife-cd9a2",
+    "storage_bucket": "griffelife-cd9a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318683998521:android:3fc49d02feee83cd8520e8",
+        "android_client_info": {
+          "package_name": "com.mpbstecnologia.controle_mercadorias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318683998521-l3vggfmbj0kccb6sr9qj85lqsg4gepcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7vgnbOB55-v1jjecCih2CBzDBvez22Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318683998521-l3vggfmbj0kccb6sr9qj85lqsg4gepcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
